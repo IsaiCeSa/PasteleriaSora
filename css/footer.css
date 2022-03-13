@@ -1,0 +1,44 @@
+/* Footer */
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    max-height: 100px;
+    padding-top: 15px;
+    padding-left: 10px;
+    background: linear-gradient(
+      90deg,
+      rgba(4, 255, 157, 1) 0%,
+      rgba(255, 255, 255, 1) 30%,
+      rgba(255, 255, 255, 1) 70%,
+      rgba(239, 67, 186, 1) 100%
+    );
+    /*
+      background-color: var(--bitcoin-orange);
+      */
+  }
+  footer section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+  }
+  .footer__left ul {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 1.4rem;
+    font-weight: 500;
+    line-height: 1.8rem;
+    margin: 5px 10px;
+    list-style: none;
+  }
+  .footer__associates {
+    margin: 15px;
+  }
+  .footer__left a {
+    text-decoration: none;
+    color: var(--black);
+  }
+  
