@@ -14,7 +14,7 @@ main {
     width: 200px;
     height: 200px;
     margin: 0 auto 50px;
-    background: url(assets/img/Bitcoin.svg) center/cover no-repeat;
+    background: url(img/Bitcoin.svg) center/cover no-repeat;
   }
   .top-product-container--title {
     width: 90%;
@@ -86,7 +86,7 @@ main {
     margin: 15px auto;
     border-radius: 5px;
     border: 1px solid var(--delicia-orange);
-    background: #ee5858 url(assets/img/fresa__0.25x.webp) no-repeat center;
+    background: #ee5858 url(img/fresa__0.25x.webp) no-repeat center;
     background-size: cover;
   }
   .plans__card-container .chocolate {
@@ -95,7 +95,7 @@ main {
     margin: 15px auto;
     border-radius: 5px;
     border: 1px solid var(--delicia-orange);
-    background: #ee5858 url(assets/img/choco-cake__0.25x.webp) no-repeat center;
+    background: #ee5858 url(img/choco-cake__0.25x.webp) no-repeat center;
     background-size: cover;
   }
   .plans__card-container .cerezas {
@@ -104,7 +104,7 @@ main {
     margin: 15px auto;
     border-radius: 5px;
     border: 1px solid var(--delicia-orange);
-    background: #ee5858 url(assets/img/cerezas_.webp) no-repeat center;
+    background: #ee5858 url(img/cerezas_.webp) no-repeat center;
     background-size: cover;
   }
   .plans__card h3 {
@@ -126,7 +126,7 @@ main {
   .plans__card .arrow-right {
     width: 20px;
     height: 20px;
-    background-image: url(assets/icons/orange-right-arrow.svg);
+    background-image: url(icons/orange-right-arrow.svg);
     background-repeat: no-repeat;
     background-size: cover;
     vertical-align: text-bottom;
